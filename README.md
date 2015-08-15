@@ -1,0 +1,2 @@
+# logpiper
+Centralized log collection
